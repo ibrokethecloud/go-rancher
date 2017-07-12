@@ -1,0 +1,22 @@
+{
+	"ImportPath": "go-rancher",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/gorilla/websocket",
+			"Comment": "v1.2.0-2-g462d5c5",
+			"Rev": "462d5c5828f6203e4047c47be2920315937be380"
+		},
+		{
+			"ImportPath": "github.com/pkg/errors",
+			"Comment": "v0.8.0-5-gc605e28",
+			"Rev": "c605e284fe17294bda444b34710735b29d1a9d90"
+		},
+		{
+			"ImportPath": "github.com/rancher/go-rancher/client",
+			"Comment": "v0.1.0-265-g9560250",
+			"Rev": "95602504cf43bbc0a861390dab25564989a3222a"
+		}
+	]
+}
